@@ -1,0 +1,23 @@
+{
+  "name": "ilgeniodellostreaming.cc",
+  "version": "1.0.0",
+  "description": "ilgeniodellostreaming.cc",
+  "main": "index.js",
+  "author": "Fenixs <fenixs22yt@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://ilgeniodellostreaming.cc/",
+    "serviceName": "ilgeniodellostreaming.cc",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
