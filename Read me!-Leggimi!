@@ -1,0 +1,11 @@
+|ITA|
+
+Non dovete far altro che andare nella cartella: %AppData% , in "Franz" e in "Plugins".
+Poi dovrete andare a spostare la cartella che avete scaricato (es. "ProtonMail") ed andarla a spostare dentro la cartella Plugins.
+Infine non dovete farlo altro che chiudere e riaprire Franz.
+
+|ENG|
+
+Enter in the folder: %AppData% , "Franz" and "Plugins".
+Next move the folder that downloaded (es. "ProtonMail) in folder "Plugins".
+Finally restart Franz.
