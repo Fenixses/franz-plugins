@@ -1,0 +1,23 @@
+{
+  "name": "Amazon.it",
+  "version": "1.0.0",
+  "description": "Amazon.it",
+  "main": "index.js",
+  "author": "Fenixs <fenixs22yt@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.amazon.it/ap/signin?_encoding=UTF8&ignoreAuthState=1&openid.assoc_handle=itflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.it%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dya_mob_des%26ref_%3Dnav_signin&switch_account=",
+    "serviceName": "Amazon.it",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
