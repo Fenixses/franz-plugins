@@ -1,0 +1,23 @@
+{
+  "name": "PayPal",
+  "version": "1.0.0",
+  "description": "PayPal",
+  "main": "index.js",
+  "author": "Fenixs <fenixs22yt@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.paypal.com/signin",
+    "serviceName": "PayPal",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
