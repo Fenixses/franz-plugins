@@ -1,0 +1,23 @@
+{
+  "name": "Netflix",
+  "version": "1.0.0",
+  "description": "Netflix",
+  "main": "index.js",
+  "author": "Fenixs <fenixs22yt@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.netflix.com/it/login",
+    "serviceName": "Netflix",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
