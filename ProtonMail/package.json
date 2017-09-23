@@ -1,0 +1,23 @@
+{
+  "name": "ProtonMail",
+  "version": "1.0.0",
+  "description": "ProtonMail",
+  "main": "index.js",
+  "author": "Fenixs <fenixs22yt@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mail.protonmail.com/login",
+    "serviceName": "ProtonMail",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
